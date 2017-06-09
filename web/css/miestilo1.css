@@ -1,0 +1,54 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05/11/2016, 12:07:43 PM
+    Author     : CAMILO SALAS
+*/
+
+
+b{
+    color: #f20d0d
+}
+
+.navbar-login-session
+{
+    padding: 10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.navbar-login
+{
+    width: 305px;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.icon-size
+{
+    font-size: 87px;
+}
+
+.text-center{
+    color: #e80c2d;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.foto{
+    height: 55px;
+    width: 55px;
+}
+
+.fotox{
+    height: 85px;
+    width: 85px;
+}
+
+strong{
+    color: #18ef07;
+    padding-top: 6px;
+}

@@ -1,0 +1,118 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27/11/2016, 11:06:02 PM
+    Author     : CAMILO SALAS
+*/
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+#menu-wrapper ul{
+    padding: 0;
+    list-style: none;
+}
+
+#hmenu > li{
+    display: inline-block;
+}
+
+#hmenu > li > a{
+    display: block;
+    padding: 15px 5px;
+    width: 90px;
+}
+
+li ul{
+    position: absolute;
+    display: none;
+}
+
+.sub-menu a{
+    display: block;
+    padding: 10px 5px;
+    width: 130px;
+}
+
+li:hover ul{
+    display: block;
+}
+
+#menu-wrapper, li ul{
+    background: #333;
+}
+
+#hmenu{
+    width: 900px;
+    margin: 0 auto;
+}
+
+#hmenu a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#hmenu li:hover{
+    background: #a3cd39;
+    text-shadow: 0 0 2px #000;
+}
+
+
+b{
+    color: #f20d0d
+}
+
+.navbar-login-session
+{
+    padding: 10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.navbar-login
+{
+    width: 305px;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.icon-size
+{
+    font-size: 87px;
+}
+
+.text-center{
+    color: #e80c2d;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.foto{
+    height: 50px;
+    width: 50px;
+}
+
+.fotox{
+    height: 80px;
+    width: 80px;
+}
+
+strong{
+    color: #18ef07;
+    padding-top: 6px;
+}
+
+
+
+
+
+
+
+
